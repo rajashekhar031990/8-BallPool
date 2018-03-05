@@ -1,6 +1,3 @@
-# WebGL-Billiards
-ThreeJS based 8-ball pool
-
-Do check out our [Wiki]( https://github.com/jaks6/WebGL-Billiards/wiki )!
-
-# [ Demo ]( http://jaks6.github.io/WebGL-Billiards/ )
+8-Ball Pool Game
+If you want to play the game
+Clone or Download the all folders and run Index.html
